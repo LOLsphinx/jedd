@@ -1,0 +1,41 @@
+body {
+    color:rgb(219, 213, 213);
+    background-image: url(https://scontent.fmnl30-1.fna.fbcdn.net/v/t1.6435-9/181075366_467275674540712_4672579279831403004_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Xpcw1ndc6kkAX9IYBJY&_nc_ht=scontent.fmnl30-1.fna&oh=00_AfA-BYUU4ynQzLVnEekBnPesKWIyWTVfEB9TtDYuBRyluw&oe=6383B577);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    display: table;
+    margin: 0px auto 0px auto;
+    padding:5px;
+    font-size: 40px;
+    color:darkslategrey;
+}
+
+.jed {
+    font-size: 20px;
+    margin-top: 20px;
+    position:absolute;
+    margin-left: 50px;
+}
+
+ul {
+    font-size: 15px;
+    margin-top: 9px;
+}
+
+.h3 {
+    margin-top: 0px auto;
+    background-color: rgb(181, 90, 255);
+    position: absolute;
+}
+
+.ul2 {
+    background-color: tomato;
+
+}
+
